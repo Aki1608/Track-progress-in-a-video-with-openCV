@@ -1,6 +1,6 @@
 # Track_Progress
 
-Code is written in Python 3. This file tracks the progress of concreting at a construction site in a video.
+Code is written in Python 3. This file uses a video to track the progress of concreting at a construction site.
 
 ## Installation
 
