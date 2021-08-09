@@ -1,4 +1,4 @@
-# Oculai_Challenge
+# Track_Progress
 
 Code is written in Python 3. This file tracks the progress of concreting at a construction site in a video.
 
@@ -16,7 +16,7 @@ pip install numpy
 
 Run
 ``` bash
-python Oculai_challenge.py
+python Tracking.py
 ```
 
  
